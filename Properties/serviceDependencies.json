@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Ranzascu_Ranzascu_Lab8Context"
+    }
+  }
+}
